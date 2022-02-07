@@ -1,3 +1,4 @@
+### reading and writing strings from JSON file, creating Metadata for whatsapp messages
 #'C:\Users\Orang\Desktop\assigment_4\�צאט WhatsApp עם יום הולדת בנות לנויה.txt'
 import json
 
